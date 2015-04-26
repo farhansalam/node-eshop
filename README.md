@@ -1,1 +1,1 @@
-# node_eshop
+# node-eshop
